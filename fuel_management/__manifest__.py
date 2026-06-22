@@ -25,6 +25,11 @@
         'report/fuel_shift_report_template.xml',
         'views/fuel_menus.xml',
     ],
+    'images': [
+        'static/description/banner.png',
+        'static/description/icon.png',
+        'static/description/screenshot.jpg',
+    ],
     'demo': [
         'demo/fuel_demo.xml',
     ],
